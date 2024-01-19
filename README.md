@@ -9,11 +9,11 @@
     psudeocode
     create string variable "name"= input(Hi there, what's your name?)
     print("Hello "name", I've got a joke for you, you wanna hear it? Y/N")
-    if response starts with a "y
+    if response is a "yes"
         print the phrase(knock knock)
-        if response is (whos there?)
+        if response 2 is (whos there?)
             print the phrase (oink oink)
-            if response 2 is (oink oink who?)
+            if response 3 is (oink oink who?)
                 print (I'm confused, are you a pig or an owl?)
             if thats not the response
                 print (If you didn't wanna do the joke you could've just told me.)
